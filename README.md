@@ -13,3 +13,7 @@ Temperature controller dew point based
 -----------------------
 Arduino temperature controller based on calculated dew point temperature from sensor(s). Associated file to upload is DHT22_lcd_dew-points.ino. Schema:
 ![Algorithm schema](https://github.com/blacktoy/Arduino/blob/master/Humidity-controller_bb.jpg)
+
+Power meter
+------------
+Arduino solar panel power meter data logger to SD card. Power-meter.ino. 
